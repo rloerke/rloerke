@@ -11,4 +11,4 @@ In my life, I bring the different perspectives of computer science and philosoph
 
 - 📫 How to reach me ...
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/ray-loerke) or send me an [email](ray.loerke@gmail.com)!
+You can reach me on [LinkedIn](https://www.linkedin.com/in/ray-loerke) or send me an [email](mailto:ray.loerke@gmail.com)!
